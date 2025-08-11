@@ -20,18 +20,5 @@ About & Services Sections – Highlights the agency's background and offerings
 Styled Contact Form – Custom CSS-based form for user interaction
 Mobile Navigation Menu – Responsive navigation using only CSS
 
-📂 Folder Structure
-fashion-modeling-agency-website/
-├── index.html
-├── about.html
-├── models.html
-├── services.html
-├── contact.html
-├── css/
-│   └── style.css
-├── images/
-│   └── (all image assets used)
-└── README.md
-
 📸 Screenshots
 <img width="1896" height="902" alt="image" src="https://github.com/user-attachments/assets/0bb2660a-9dda-403b-96a1-24e1c88bea79" />
